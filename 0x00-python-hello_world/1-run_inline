@@ -1,2 +1,2 @@
 #!/bin/bash
-export PYCODE='print(f"Hello, World!: {5*2}")'
+export PYCODE='print(f"Hello, World!: {5*2}")'\n
