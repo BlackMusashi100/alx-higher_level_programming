@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def square_matrix_simple(matrix=[]):
+square_matrix_simple = _import_('0-square_matrix_simple').square_matrix_simple
 
 matrix = [[0,1,2],[3,4,5],[6,7,8]]
 
